@@ -10,7 +10,7 @@ using System.Web.Http.Cors;
 namespace EmployeeWebAPI.Controllers
 {
 	[EnableCors("http://localhost:4200","*","*")]
-    // commit changes
+    // commit changes it
     public class EmployeeController : ApiController
     {
         public IHttpActionResult GetDetails()
