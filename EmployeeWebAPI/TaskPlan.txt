@@ -1,0 +1,26 @@
+﻿
+
+Function 
+
+GET Employees using Entity Framework
+Add Employees
+Delete Employees
+Update Employees
+Find Employees
+
+Design Architecture
+
+Dependency Injection with Registry
+Implement Filter
+Logging
+Authentication and Authorization 
+Security such as Token
+Unit Testing
+Message Queue Framework
+Create Package , deploye and Call Customized packages
+Connection pool
+
+
+
+
+
